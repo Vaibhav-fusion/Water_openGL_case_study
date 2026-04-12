@@ -8,7 +8,7 @@ g++ src/main.cpp src/glad.c \
 -framework OpenGL \
 -o app
 
-Note :- i have use brew for glfw lib path , you should use your own path 
+Note :- i have use brew for glfw lib path , you should use your own path  , also ignore cmake file 
 
 then run the app excutable file :-
 
