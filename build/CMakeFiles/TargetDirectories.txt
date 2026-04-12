@@ -1,0 +1,3 @@
+/Users/vaibhavsingh/Downloads/coding stuff/miniEngine/build/CMakeFiles/app.dir
+/Users/vaibhavsingh/Downloads/coding stuff/miniEngine/build/CMakeFiles/edit_cache.dir
+/Users/vaibhavsingh/Downloads/coding stuff/miniEngine/build/CMakeFiles/rebuild_cache.dir
